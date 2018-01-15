@@ -1,0 +1,143 @@
+<code_scheme name="hippo_intellij_code_style">
+<option name="OTHER_INDENT_OPTIONS">
+<value>
+<option name="USE_TAB_CHARACTER" value="false" />
+<option name="SMART_TABS" value="false" />
+<option name="TAB_SIZE" value="4" />
+<option name="INDENT_SIZE" value="4" />
+<option name="CONTINUATION_INDENT_SIZE" value="8" />
+<option name="LABEL_INDENT_SIZE" value="0" />
+<option name="LABEL_INDENT_ABSOLUTE" value="false" />
+<option name="USE_RELATIVE_INDENT" value="false" />
+</value>
+</option>
+<option name="GENERATE_FINAL_LOCALS" value="true" />
+<option name="GENERATE_FINAL_PARAMETERS" value="true" />
+<option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+<option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+<option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+<value />
+</option>
+<option name="IMPORT_LAYOUT_TABLE">
+<value/></option>
+<option name="HTML_ATTRIBUTE_WRAP" value="0" />
+<option name="HTML_TEXT_WRAP" value="0" />
+<option name="HTML_KEEP_BLANK_LINES" value="1" />
+<option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="" />
+<option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+<option name="HTML_KEEP_WHITESPACES_INSIDE" value=",pre" />
+<option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,b,basefont,bdo,big,br,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,mark,delete,ins" />
+<option name="WRAP_COMMENTS" value="true" />
+<option name="IF_BRACE_FORCE" value="3" />
+<option name="DOWHILE_BRACE_FORCE" value="3" />
+<option name="WHILE_BRACE_FORCE" value="3" />
+<option name="FOR_BRACE_FORCE" value="3" />
+<CssCodeStyleSettings>
+<option name="HEX_COLOR_LOWER_CASE" value="true" />
+<option name="HEX_COLOR_LONG_FORMAT" value="true" />
+</CssCodeStyleSettings>
+<JSCodeStyleSettings>
+<option name="OBJECT_LITERAL_WRAP" value="0" />
+</JSCodeStyleSettings>
+<XML>
+<option name="XML_ATTRIBUTE_WRAP" value="0" />
+<option name="XML_TEXT_WRAP" value="0" />
+<option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+</XML>
+<ADDITIONAL_INDENT_OPTIONS fileType="scala">
+<option name="INDENT_SIZE" value="2" />
+<option name="TAB_SIZE" value="2" />
+</ADDITIONAL_INDENT_OPTIONS>
+<ADDITIONAL_INDENT_OPTIONS fileType="yml">
+<option name="INDENT_SIZE" value="2" />
+</ADDITIONAL_INDENT_OPTIONS>
+<codeStyleSettings language="CSS">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="CoffeeScript">
+<option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+<option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+<option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+</codeStyleSettings>
+<codeStyleSettings language="Groovy">
+<option name="IF_BRACE_FORCE" value="3" />
+<option name="WHILE_BRACE_FORCE" value="3" />
+<option name="FOR_BRACE_FORCE" value="3" />
+<option name="PARENT_SETTINGS_INSTALLED" value="true" />
+</codeStyleSettings>
+<codeStyleSettings language="HAML">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="HTML">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="JAVA">
+<option name="OTHER_INDENT_OPTIONS">
+<value>
+<option name="GENERATE_FINAL_LOCALS" value="true" />
+<option name="GENERATE_FINAL_PARAMETERS" value="true" />
+<option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+<option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
+<option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+<value />
+</option>
+<option name="USE_TAB_CHARACTER" value="false" />
+<option name="SMART_TABS" value="false" />
+<option name="TAB_SIZE" value="4" />
+<option name="INDENT_SIZE" value="4" />
+<option name="CONTINUATION_INDENT_SIZE" value="8" />
+<option name="LABEL_INDENT_SIZE" value="0" />
+<option name="LABEL_INDENT_ABSOLUTE" value="false" />
+<option name="USE_RELATIVE_INDENT" value="false" />
+<option name="IF_BRACE_FORCE" value="3" />
+<option name="DOWHILE_BRACE_FORCE" value="3" />
+<option name="WHILE_BRACE_FORCE" value="3" />
+<option name="FOR_BRACE_FORCE" value="3" />
+<option name="PARENT_SETTINGS_INSTALLED" value="true" />
+</value>
+</option>
+
+</codeStyleSettings>
+<codeStyleSettings language="JSON">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="JSP">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="JSPX">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="JavaScript">
+<option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+<option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+<option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+<option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+<option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+<option name="WRAP_COMMENTS" value="true" />
+<option name="IF_BRACE_FORCE" value="3" />
+<option name="DOWHILE_BRACE_FORCE" value="3" />
+<option name="WHILE_BRACE_FORCE" value="3" />
+<option name="FOR_BRACE_FORCE" value="3" />
+<option name="PARENT_SETTINGS_INSTALLED" value="true" />
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="LESS">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="SASS">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="SCSS">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="SQL">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="Stylus">
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="TypeScript">
+<option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+<option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+<option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+<option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+<option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+<option name="WRAP_COMMENTS" value="true" />
+<option name="IF_BRACE_FORCE" value="3" />
+<option name="DOWHILE_BRACE_FORCE" value="3" />
+<option name="WHILE_BRACE_FORCE" value="3" />
+<option name="FOR_BRACE_FORCE" value="3" />
+<option name="PARENT_SETTINGS_INSTALLED" value="true" />
+<indentOptions/></codeStyleSettings>
+<codeStyleSettings language="XML">
+<indentOptions/>
+</codeStyleSettings>
+</code_scheme>
