@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*t.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +14,16 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
       <mask>*y</mask>
       <mask>*yml</mask>
+      <mask>h</mask>
+      <mask>*</mask>
+      <mask>*t</mask>
+      <mask>*t.</mask>
+      <mask>*t.j</mask>
+      <mask>*t.ja</mask>
+      <mask>*t.jav</mask>
+      <mask>*t.java</mask>
     </recentFileMasks>
   </component>
 </application>
