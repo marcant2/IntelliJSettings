@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern=".editorconfig" type="DTD" />
-      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping ext="jks" type="Native" />
       <mapping pattern="codestylemagdagwy" type="XML" />
     </extensionMap>
